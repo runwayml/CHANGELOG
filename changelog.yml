@@ -1,32 +1,28 @@
+- version: vx.x.x
+  date: '2019-06-10'
+  changes:
+    features: []
+    enhancements: []
+    fixes: []
+    notes:
+      - This is a test of the CHANGELOG automated update system.
 - version: 0.6.3
   date: '2019-06-04'
   changes:
     enhancements:
       - Improvements to the Model Options UI.
-
 - version: 0.6.2
   date: '2019-06-04'
   changes:
     fixes:
       - Fixes for Windows and Linux login.
-
 - version: 0.6.1
   date: '2019-06-04'
   changes:
     fixes:
       - Registration screen fixes for Windows and Linux.
-
 - version: 0.6.0
   date: '2019-06-04'
   changes:
     notes:
       - Runway is now in Public Beta!
-
-## EXAMPLE
-# - version: 0.6.3
-#   date: '2019-06-04'
-#   changes:
-#     features: []
-#     enhancements: []
-#     fixes: []
-#     notes: []

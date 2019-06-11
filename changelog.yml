@@ -1,3 +1,16 @@
+- version: v0.0.0
+  date: '2019-06-11'
+  changes:
+    features: null
+    enhancements:
+      - This is an example of an enhancement.
+      - This is another example of an enhancement!
+    fixes:
+      - >-
+        There was only one very small fix in this release. Can you guess what it
+        was?
+    notes:
+      - This is a test. It will be deleted shortly.
 - version: 0.6.3
   date: '2019-06-04'
   changes:

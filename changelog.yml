@@ -5,12 +5,12 @@
       - Improved text display for GPT-2.
     features:
       - Segmentation Input is now available!
+      - "Two new models: SPADE-COCO and SPADE-Landscapes."
 - version: 0.6.3
   date: '2019-06-04'
   changes:
     enhancements:
       - Improvements to the Model Options UI.
-      - Two new models: SPADE-COCO and SPADE-Landscapes.
 - version: 0.6.2
   date: '2019-06-04'
   changes:

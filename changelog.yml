@@ -1,3 +1,23 @@
+- version: 0.6.6
+  date: '2019-06-17'
+  changes:
+    features:
+      - Semantic map input types now accept images as input.
+    enhancements:
+      - >-
+        UI revamp of Browse Models section, including models grouped by
+        categories.
+      - Improved model search experience.
+      - >-
+        Add link to verification code support page from verification code
+        window.
+      - Flexible canvas for semantic map input.
+    fixes:
+      - Fix info network integration endpoint for socket.io.
+      - >-
+        Fix bug where image aspect ratio could be lost when resizing image in
+        locked aspect ratio mode.
+    notes: []
 - version: 0.6.5
   date: '2019-06-12'
   changes:
@@ -10,7 +30,7 @@
       - Improved text display for GPT-2.
     features:
       - Segmentation Input is now available!
-      - "Two new models: SPADE-COCO and SPADE-Landscapes."
+      - 'Two new models: SPADE-COCO and SPADE-Landscapes.'
 - version: 0.6.3
   date: '2019-06-04'
   changes:

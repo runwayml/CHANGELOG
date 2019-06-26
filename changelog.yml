@@ -1,3 +1,14 @@
+- version: 0.6.8
+  date: '2019-06-26'
+  changes:
+    features: []
+    enhancements: []
+    fixes:
+      - Fix issue preventing the About Runway window from loading.
+      - >-
+        Fix issue where remote GPU sessions were sometimes not being stopped
+        despite the UI indicating they were.
+    notes: []
 - version: 0.6.7
   date: '2019-06-25'
   changes:

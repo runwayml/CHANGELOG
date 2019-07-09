@@ -1,3 +1,18 @@
+- version: 0.6.10
+  date: '2019-07-09'
+  changes:
+    features:
+      - Added HTTP /error endpoint.
+      - Added OSC info message on connection.
+      - Added ability to make model public from Settings.
+      - Added support for boolean data type.
+    enhancements:
+      - Added checkboard pattern for transparent images in Preview.
+      - >-
+        When saving Segmentation output, the color map is now saved instead of
+        the id (grayscale) map.
+    fixes: []
+    notes: []
 - version: 0.6.9
   date: '2019-06-27'
   changes:

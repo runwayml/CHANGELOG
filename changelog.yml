@@ -1,3 +1,16 @@
+- version: 0.7.0
+  date: '2019-07-18'
+  changes:
+    features:
+      - >-
+        Chaining is here! You can now use the output of one machine learning
+        model as the input for another one.
+    enhancements:
+      - Added ability to start and stop models from the sidebar.
+      - You can now run up to 5 models at the same time on our remote GPU.
+    fixes:
+      - Fixed issue where the login window was appearing twice in certain cases.
+    notes: []
 - version: 0.6.10
   date: '2019-07-09'
   changes:

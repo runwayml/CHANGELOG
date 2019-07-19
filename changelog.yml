@@ -1,3 +1,16 @@
+- version: 0.7.1
+  date: '2019-07-19'
+  changes:
+    features: []
+    enhancements: []
+    fixes:
+      - >-
+        Fixed chaining bug where new models being added to a workspace were not
+        receiving existing output from other models.
+      - >-
+        Fixed issue where Segmentation file input was using JPEG encoding
+        instead of PNG.
+    notes: []
 - version: 0.7.0
   date: '2019-07-18'
   changes:

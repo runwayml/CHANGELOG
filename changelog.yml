@@ -1,3 +1,20 @@
+- version: 0.7.2
+  date: '2019-07-23'
+  changes:
+    features:
+      - >-
+        You can now connect to a local Runway model server to develop models
+        interactively.
+    enhancements:
+      - Added a more user-friendly way to edit a model's license.
+    fixes:
+      - >-
+        Fixed issue preventing opening input files containing the hash symbol in
+        the path.
+      - >-
+        Fixed issue in which the checkpoint selector became unresponsive in some
+        cases.
+    notes: []
 - version: 0.7.1
   date: '2019-07-19'
   changes:

@@ -1,3 +1,11 @@
+- version: 0.7.3
+  date: '2019-07-24'
+  changes:
+    features: []
+    enhancements:
+      - Added performance optimizations for Camera input.
+    fixes: []
+    notes: []
 - version: 0.7.2
   date: '2019-07-23'
   changes:

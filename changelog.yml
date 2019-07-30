@@ -1,3 +1,13 @@
+- version: 0.7.5
+  date: '2019-07-30'
+  changes:
+    features: []
+    enhancements: []
+    fixes:
+      - >-
+        Fixed video export issue in which the export process would get stuck
+        before reaching the end of the video.
+    notes: []
 - version: 0.7.4
   date: '2019-07-29'
   changes:

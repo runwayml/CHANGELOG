@@ -1,3 +1,13 @@
+- version: 0.7.6
+  date: '2019-07-30'
+  changes:
+    features: []
+    enhancements: []
+    fixes:
+      - >-
+        Fix issue where the vector grid was displaying a limited number of
+        images.
+    notes: []
 - version: 0.7.5
   date: '2019-07-30'
   changes:

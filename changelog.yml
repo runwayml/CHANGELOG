@@ -1,3 +1,17 @@
+- version: 0.8.0
+  date: '2019-08-01'
+  changes:
+    features:
+      - >-
+        Local GPU is now available for Linux users! You can now run models
+        locally using your own NVIDIA GPU hardware.
+    enhancements:
+      - Faster model downloads with improved model caching on disk.
+    fixes:
+      - >-
+        Fixed issue with download speed estimation where the displayed speed was
+        NaN.
+    notes: []
 - version: 0.7.6
   date: '2019-07-30'
   changes:

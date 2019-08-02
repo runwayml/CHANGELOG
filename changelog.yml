@@ -1,3 +1,14 @@
+- version: 0.8.1
+  date: '2019-08-02'
+  changes:
+    features: []
+    enhancements: []
+    fixes:
+      - >-
+        Fix checkpoint download issue where the checkpoint installation was
+        failing if the temporary file location was in a different partition than
+        the user's directory. .
+    notes: []
 - version: 0.8.0
   date: '2019-08-01'
   changes:

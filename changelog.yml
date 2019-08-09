@@ -1,3 +1,14 @@
+- version: 0.8.2
+  date: '2019-08-09'
+  changes:
+    features: []
+    enhancements: []
+    fixes:
+      - >-
+        Fixed issue with Vector Input where tile selection was broken after the
+        grid was regenerated.
+      - Security updates.
+    notes: []
 - version: 0.8.1
   date: '2019-08-02'
   changes:

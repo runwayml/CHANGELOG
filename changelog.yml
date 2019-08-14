@@ -1,3 +1,16 @@
+- version: 0.9.1
+  date: '2019-08-14'
+  changes:
+    features: []
+    enhancements:
+      - >-
+        Added ability to export segmentation colors in models that use
+        segmentation as input.
+    fixes:
+      - >-
+        Fixed issue where the auto-generated Javascript snippets for some models
+        were throwing a SyntaxError.
+    notes: []
 - version: 0.9.0
   date: '2019-08-12'
   changes:

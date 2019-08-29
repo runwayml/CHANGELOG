@@ -1,3 +1,16 @@
+- version: 0.9.3
+  date: '2019-08-29'
+  changes:
+    features:
+      - >-
+        You can now view all running Runway model sessions from your OS menu
+        bar. Available initially for Mac OS X and Windows.
+    enhancements: []
+    fixes:
+      - >-
+        Fixed issue with OpenGPT-2 where model inference would hang
+        indefinitely.
+    notes: []
 - version: 0.9.2
   date: '2019-08-20'
   changes:

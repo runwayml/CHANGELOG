@@ -1,3 +1,11 @@
+- version: 0.9.4
+  date: '2019-09-02'
+  changes:
+    features: []
+    enhancements: []
+    fixes:
+      - Fix issue where the HTTP endpoints were not being displayed properly.
+    notes: []
 - version: 0.9.3
   date: '2019-08-29'
   changes:

@@ -1,3 +1,17 @@
+- version: 0.9.5
+  date: '2019-09-09'
+  changes:
+    features:
+      - Add support for uploading text files for models that take text as input.
+    enhancements: []
+    fixes:
+      - Fix issue where the selected directory does not exist anymore.
+      - >-
+        Fix the issue on Linux where the Quit button does not close the
+        application properly.
+      - Fix the issue where the app cannot be restored after being minimized.
+      - Security updates.
+    notes: []
 - version: 0.9.4
   date: '2019-09-02'
   changes:

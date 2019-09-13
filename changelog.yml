@@ -1,3 +1,20 @@
+- version: 0.9.6
+  date: '2019-09-13'
+  changes:
+    features: []
+    enhancements:
+      - The vector grid interface can now be used with text-based models.
+      - >-
+        You can now set the installation directory during the Windows
+        installation.
+      - Usability updates in the Model Directory.
+    fixes:
+      - >-
+        Fixed issue in Windows in which the Runway process sometimes remained
+        alive after closing the app on Windows.
+      - Fixed issue in which a model hanged in a starting state forever.
+      - Fixed issue the run options became hidden when using two image inputs.
+    notes: []
 - version: 0.9.5
   date: '2019-09-09'
   changes:

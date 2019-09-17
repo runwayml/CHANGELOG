@@ -1,3 +1,20 @@
+- version: 0.9.7
+  date: '2019-09-17'
+  changes:
+    features: []
+    enhancements:
+      - Improvements to video encoding.
+    fixes:
+      - >-
+        Fixed issue where model logs were not visible while the model was
+        starting.
+      - >-
+        Fixed issue where the input specification was incorrectly shown under
+        "Output Specification.".
+      - >-
+        Fixed issue in Vector Input where the slider value for "Sampling
+        Distance" was too slow to update.
+    notes: []
 - version: 0.9.6
   date: '2019-09-13'
   changes:

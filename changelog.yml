@@ -1,3 +1,13 @@
+- version: 0.9.8
+  date: '2019-09-17'
+  changes:
+    features: []
+    enhancements: []
+    fixes:
+      - >-
+        Fixed issue where video export was failing in some cases on Mac OS X and
+        Linux.
+    notes: []
 - version: 0.9.7
   date: '2019-09-17'
   changes:

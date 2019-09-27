@@ -1,3 +1,11 @@
+- version: 0.9.10
+  date: '2019-09-27'
+  changes:
+    features: []
+    enhancements: []
+    fixes:
+      - Fixed error when exporting PNG frames to MP4 video on Linux.
+    notes: []
 - version: 0.9.9
   date: '2019-09-26'
   changes:

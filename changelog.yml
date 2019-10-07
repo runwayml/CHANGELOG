@@ -1,3 +1,17 @@
+- version: 0.9.12
+  date: '2019-10-07'
+  changes:
+    features: []
+    enhancements:
+      - >-
+        Add help menu for quick access to guides and resources at the left menu
+        bar of the app.
+    fixes:
+      - >-
+        Fix issue where the app sometimes would unexpectedly crash when viewing
+        the system status.
+      - Fix issue in which the camera remained open even after deleting a model.
+    notes: []
 - version: 0.9.11
   date: '2019-10-01'
   changes:

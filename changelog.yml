@@ -1,3 +1,11 @@
+- version: 0.9.13
+  date: '2019-10-07'
+  changes:
+    features: []
+    enhancements: []
+    fixes:
+      - Fixed issue where the camera feed was sometimes not visible.
+    notes: []
 - version: 0.9.12
   date: '2019-10-07'
   changes:

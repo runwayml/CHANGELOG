@@ -1,14 +1,3 @@
-- version: 0.9.15
-  date: '2019-10-14'
-  changes:
-    features: []
-    enhancements: []
-    fixes:
-      - Fixed issues opening the app for the first time on macOS Catalina.
-      - >-
-        Fixed issue where right-clicking on a chained output caused the app to
-        crash.
-    notes: []
 - version: 0.9.14
   date: '2019-10-10'
   changes:

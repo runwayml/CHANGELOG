@@ -1,3 +1,18 @@
+- version: 0.9.16
+  date: '2019-10-25'
+  changes:
+    features: []
+    enhancements:
+      - >-
+        Added firewall related instructions when the app cannot connect to our
+        servers.
+      - Preview is now selected by default in the Output panel.
+      - Minor UI improvements and optimizations.
+    fixes:
+      - >-
+        Fixed issue where models that accepted a 4-channel image input were
+        being sent a 3-channel image input instead.
+    notes: []
 - version: 0.9.15
   date: '2019-10-14'
   changes:

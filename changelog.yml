@@ -1,3 +1,14 @@
+- version: 0.9.17
+  date: '2019-10-29'
+  changes:
+    features: []
+    enhancements:
+      - Better error reporting for failed remote model runs.
+    fixes:
+      - >-
+        Fixed issue where video exports were failing for some specific edge
+        cases.
+    notes: []
 - version: 0.9.16
   date: '2019-10-25'
   changes:

@@ -1,3 +1,14 @@
+- version: 0.9.19
+  date: '2019-11-04'
+  changes:
+    features: []
+    enhancements:
+      - >-
+        Added the ability to upload model files from the Workspaces view for
+        model publishers.
+    fixes:
+      - Fixed issue where log lines were being repeated in the Logs panel.
+    notes: []
 - version: 0.9.18
   date: '2019-10-31'
   changes:

@@ -1,3 +1,11 @@
+- version: 0.9.23
+  date: '2019-11-13'
+  changes:
+    features: []
+    enhancements: []
+    fixes:
+      - Performance optimizations for reducing model startup time on remote GPU.
+    notes: []
 - version: 0.9.22
   date: '2019-11-11'
   changes:

@@ -1,3 +1,11 @@
+- version: 0.9.25
+  date: '2019-11-18'
+  changes:
+    features: []
+    enhancements:
+      - Minor UI improvements and optimizations.
+    fixes: []
+    notes: []
 - version: 0.9.24
   date: '2019-11-14'
   changes:

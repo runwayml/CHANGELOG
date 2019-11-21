@@ -1,3 +1,11 @@
+- version: 0.10.0
+  date: '2019-11-21'
+  changes:
+    features:
+      - "Early access to Model Training is here! We will be granting access to new users every week \U0001F917 Sign up here: https://runwayml.com/training-access."
+    enhancements: []
+    fixes: []
+    notes: []
 - version: 0.9.25
   date: '2019-11-18'
   changes:

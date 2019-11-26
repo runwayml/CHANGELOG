@@ -1,3 +1,16 @@
+- version: 0.10.1
+  date: '2019-11-26'
+  changes:
+    features: []
+    enhancements:
+      - Added ability to download model checkpoints from the Model Info view.
+      - Added latent space walk video at the end of a training experiment.
+      - Performance optimizations for dataset uploading.
+    fixes:
+      - >-
+        Fixed issue where the training sample shown was not being automatically
+        updated as the training was progressing.
+    notes: []
 - version: 0.10.0
   date: '2019-11-21'
   changes:

@@ -6,7 +6,7 @@
     fixes:
       - >-
         Fixed issue where the final training sample was not being displayed
-        properly. .
+        properly.
       - >-
         Fixed layout issues in the Review view of Training on small screen
         sizes.

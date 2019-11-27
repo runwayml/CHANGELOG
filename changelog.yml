@@ -1,3 +1,13 @@
+- version: 0.10.2
+  date: '2019-11-27'
+  changes:
+    features: []
+    enhancements: []
+    fixes:
+      - >-
+        Fix issue with HTTP Network Integration that was causing requests to
+        fail even on valid payload.
+    notes: []
 - version: 0.10.1
   date: '2019-11-26'
   changes:

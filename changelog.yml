@@ -1,3 +1,19 @@
+- version: 0.10.3
+  date: '2019-11-27'
+  changes:
+    features: []
+    enhancements: []
+    fixes:
+      - >-
+        Fixed issue where the final training sample was not being displayed
+        properly. .
+      - >-
+        Fixed layout issues in the Review view of Training on small screen
+        sizes.
+      - >-
+        Fixed issue in PoseNet where an error was shown when running the model
+        without an input selected.
+    notes: []
 - version: 0.10.2
   date: '2019-11-27'
   changes:

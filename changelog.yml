@@ -1,3 +1,17 @@
+- version: 0.10.4
+  date: '2019-11-29'
+  changes:
+    features: []
+    enhancements: []
+    fixes:
+      - >-
+        Fixed issue where the progress of the running training experiments was
+        not being updated unless they were selected.
+      - >-
+        Fixed issue where requests to the Network integration required values to
+        be present for all input parameters, including those that had a default
+        value.
+    notes: []
 - version: 0.10.3
   date: '2019-11-27'
   changes:

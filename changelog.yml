@@ -1,3 +1,11 @@
+- version: 0.10.5
+  date: '2019-12-02'
+  changes:
+    features: []
+    enhancements: []
+    fixes:
+      - Fix error when uploading directory checkpoints to models.
+    notes: []
 - version: 0.10.4
   date: '2019-11-29'
   changes:

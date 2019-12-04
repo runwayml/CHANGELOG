@@ -1,3 +1,11 @@
+- version: 0.10.7
+  date: '2019-12-04'
+  changes:
+    features: []
+    enhancements:
+      - Performance and UI optimizations.
+    fixes: []
+    notes: []
 - version: 0.10.6
   date: '2019-12-04'
   changes:

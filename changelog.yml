@@ -1,3 +1,14 @@
+- version: 0.10.6
+  date: '2019-12-04'
+  changes:
+    features: []
+    enhancements:
+      - Added sharable link for users’ public models.
+      - Added an estimated cost calculator for training experiments.
+      - Provided a feedback rating option for training experiments.
+    fixes:
+      - Fixed issues when Runway is running inside of a corporate proxy.
+    notes: []
 - version: 0.10.5
   date: '2019-12-02'
   changes:

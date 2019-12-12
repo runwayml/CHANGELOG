@@ -1,3 +1,13 @@
+- version: 0.10.11
+  date: '2019-12-12'
+  changes:
+    features:
+      - >-
+        Supported the ability to continue training after one experiment has
+        ended.
+    enhancements: []
+    fixes: []
+    notes: []
 - version: 0.10.10
   date: '2019-12-11'
   changes:

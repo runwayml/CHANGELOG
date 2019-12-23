@@ -1,3 +1,15 @@
+- version: 0.10.12
+  date: '2019-12-23'
+  changes:
+    features: []
+    enhancements:
+      - >-
+        A new Browse Models page that makes it easier to find models and
+        understand what do they do.
+      - Added search bars for training experiments.
+      - Performance and UI optimizations.
+    fixes: []
+    notes: []
 - version: 0.10.11
   date: '2019-12-12'
   changes:

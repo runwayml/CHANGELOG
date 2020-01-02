@@ -1,3 +1,20 @@
+- version: 0.10.13
+  date: '2020-01-02'
+  changes:
+    features: []
+    enhancements:
+      - >-
+        Added the ability to change the name and description of model files
+        after uploading them.
+      - >-
+        Added a tooltip with an image preview when selecting a checkpoint for a
+        model in Workspaces.
+    fixes:
+      - >-
+        Fixed issue with CSV exports where filenames were being associated with
+        the incorrect output.
+      - Fixed issue where the login window was being created more than once.
+    notes: []
 - version: 0.10.12
   date: '2019-12-23'
   changes:

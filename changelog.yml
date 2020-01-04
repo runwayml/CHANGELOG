@@ -1,3 +1,13 @@
+- version: 0.10.15
+  date: '2020-01-04'
+  changes:
+    features: []
+    enhancements: []
+    fixes:
+      - >-
+        Fix issue preventing remote models from starting successfully in some
+        instances.
+    notes: []
 - version: 0.10.14
   date: '2020-01-04'
   changes:

@@ -1,3 +1,20 @@
+- version: 0.10.14
+  date: '2020-01-04'
+  changes:
+    features: []
+    enhancements:
+      - >-
+        Add the ability to select a different checkpoint of the training
+        experiment when saving a model.
+      - Add the ability to edit the preview image of a checkpoint.
+    fixes:
+      - >-
+        Fix issue where local checkpoints were in some cases being re-downloaded
+        when running models.
+      - >-
+        Fix issue where the Vector grid was not being reset when selecting a
+        different checkpoint and re-running a model.
+    notes: []
 - version: 0.10.13
   date: '2020-01-02'
   changes:

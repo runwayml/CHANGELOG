@@ -1,3 +1,14 @@
+- version: 0.10.19
+  date: '2020-01-13'
+  changes:
+    features:
+      - Add user profile pages.
+      - Add the ability to view all models trained by the RunwayML community.
+    enhancements:
+      - Update training home page.
+    fixes:
+      - Performance and UI optimizations.
+    notes: []
 - version: 0.10.18
   date: '2020-01-07'
   changes:

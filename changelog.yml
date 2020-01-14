@@ -1,3 +1,11 @@
+- version: 0.10.20
+  date: '2020-01-14'
+  changes:
+    features: []
+    enhancements:
+      - Added ability to purchase subscriptions and credits from within the app.
+    fixes: []
+    notes: []
 - version: 0.10.19
   date: '2020-01-13'
   changes:

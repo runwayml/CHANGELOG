@@ -1,3 +1,11 @@
+- version: 0.10.21
+  date: '2020-01-20'
+  changes:
+    features:
+      - Training is now generally available.
+    enhancements: []
+    fixes: []
+    notes: []
 - version: 0.10.20
   date: '2020-01-14'
   changes:

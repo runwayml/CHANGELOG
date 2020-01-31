@@ -1,3 +1,18 @@
+- version: 0.10.22
+  date: '2020-01-31'
+  changes:
+    features: []
+    enhancements:
+      - Added option to make a model private from Model Settings.
+    fixes:
+      - Fixed issues when running trained models on Local GPU.
+      - >-
+        Fixed issue where keyboard shortcuts for navigating between views were
+        not working on Windows.
+      - >-
+        Fixed issue where "Local Checkpoint Not Found" message still being shown
+        even after downloading a checkpoint for a model.
+    notes: []
 - version: 0.10.21
   date: '2020-01-20'
   changes:

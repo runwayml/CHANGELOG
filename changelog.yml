@@ -6,30 +6,6 @@
     enhancements: []
     fixes: []
     notes: []
-- version: 0.10.23
-  date: '2020-02-03'
-  changes:
-    features:
-      - Exports view for exporting training progress videos.
-    enhancements: []
-    fixes: []
-    notes: []
-- version: 0.10.23
-  date: '2020-02-03'
-  changes:
-    features:
-      - Export view for exporting training progress videos.
-    enhancements: []
-    fixes: []
-    notes: []
-- version: 0.10.23
-  date: '2020-02-03'
-  changes:
-    features:
-      - Export view for exporting training progress videos.
-    enhancements: []
-    fixes: []
-    notes: []
 - version: 0.10.22
   date: '2020-01-31'
   changes:

@@ -1,3 +1,17 @@
+- version: 0.10.26
+  date: '2020-02-12'
+  changes:
+    features: []
+    enhancements:
+      - Added ability to batch generate images using your trained model.
+      - Added ability to submit feedback on the model output in Workspaces.
+      - Added ability to cancel running exports.
+      - Added Hide shortcut for Mac (Cmd+H).
+    fixes:
+      - >-
+        Fixed issue where saving the output image of the model was throwing
+        errors in some cases.
+    notes: []
 - version: 0.10.25
   date: '2020-02-05'
   changes:

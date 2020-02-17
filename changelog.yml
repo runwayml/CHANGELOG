@@ -1,3 +1,22 @@
+- version: 0.10.27
+  date: '2020-02-17'
+  changes:
+    features:
+      - >-
+        A brand new interface for text generation models, with the ability to
+        undo/redo, regenerate output, and use the prior output as prompt for
+        further generation.
+    enhancements:
+      - UI improvements and optimizations for GPT-2 model training.
+      - Added ability to upload datasets with nested folders.
+    fixes:
+      - >-
+        Fixed issue in which the shown FID score was not being updated when
+        navigating between sample steps during training.
+      - >-
+        Fixed issue where the batch generation task was always using the latest
+        training checkpoint, instead of the currently selected one.
+    notes: []
 - version: 0.10.26
   date: '2020-02-12'
   changes:

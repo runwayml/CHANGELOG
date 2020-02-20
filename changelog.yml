@@ -1,3 +1,13 @@
+- version: 0.10.28
+  date: '2020-02-20'
+  changes:
+    features: []
+    enhancements:
+      - UI improvements to the text interface.
+    fixes:
+      - Fixed button positioning when chaining models in the IO view.
+      - Fixed issue where text models were not returning outputs via network.
+    notes: []
 - version: 0.10.27
   date: '2020-02-17'
   changes:

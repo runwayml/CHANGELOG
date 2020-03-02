@@ -6,3 +6,11 @@
     enhancements: []
     fixes: []
     notes: []
+- version: 0.0.1
+  date: '2020-03-02'
+  changes:
+    features:
+      - Training image and text generators.
+    enhancements: []
+    fixes: []
+    notes: []

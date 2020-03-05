@@ -1,3 +1,13 @@
+- version: 0.10.31
+  date: '2020-03-05'
+  changes:
+    features: []
+    enhancements: []
+    fixes:
+      - >-
+        Fixed issue where the Connect button was not visible in Development Mode
+        in some cases.
+    notes: []
 - version: 0.10.30
   date: '2020-02-28'
   changes:

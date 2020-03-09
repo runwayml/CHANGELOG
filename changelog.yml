@@ -1,3 +1,11 @@
+- version: 0.10.32
+  date: '2020-03-09'
+  changes:
+    features: []
+    enhancements:
+      - Add support for StyleGAN2.
+    fixes: []
+    notes: []
 - version: 0.10.31
   date: '2020-03-05'
   changes:

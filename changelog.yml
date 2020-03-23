@@ -1,3 +1,13 @@
+- version: 0.10.33
+  date: '2020-03-23'
+  changes:
+    features: []
+    enhancements:
+      - >-
+        Added a more clear visual indicator for private models in the Model
+        Directory.
+    fixes: []
+    notes: []
 - version: 0.10.32
   date: '2020-03-09'
   changes:

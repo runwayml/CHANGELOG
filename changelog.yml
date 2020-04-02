@@ -1,3 +1,14 @@
+- version: 0.11.0
+  date: '2020-04-02'
+  changes:
+    features:
+      - >-
+        Introducing Dataset Preprocessing, a new view that allows you to
+        manually crop and transform the images in your dataset before training a
+        model.
+    enhancements: []
+    fixes: []
+    notes: []
 - version: 0.10.33
   date: '2020-03-23'
   changes:

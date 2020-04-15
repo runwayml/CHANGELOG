@@ -1,3 +1,13 @@
+- version: 0.11.1
+  date: '2020-04-15'
+  changes:
+    features: []
+    enhancements:
+      - >-
+        Added the ability to remove images from a dataset from the Dataset
+        Preprocessing view. .
+    fixes: []
+    notes: []
 - version: 0.11.0
   date: '2020-04-02'
   changes:

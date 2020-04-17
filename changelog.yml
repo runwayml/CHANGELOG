@@ -1,3 +1,15 @@
+- version: 0.11.2
+  date: '2020-04-17'
+  changes:
+    features:
+      - >-
+        Introducing a new Export functionality for image-to-image translation
+        models. You no longer need to keep Runway open to process large videos
+        or directories of images — you can now submit an export and come back to
+        view the results later.
+    enhancements: []
+    fixes: []
+    notes: []
 - version: 0.11.1
   date: '2020-04-15'
   changes:

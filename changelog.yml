@@ -1,3 +1,13 @@
+- version: 0.12.4
+  date: '2020-05-12'
+  changes:
+    features: []
+    enhancements:
+      - >-
+        Added ability to generate Latent Walk videos for image generation models
+        from the Workspaces view.
+    fixes: []
+    notes: []
 - version: 0.12.3
   date: '2020-05-11'
   changes:

@@ -1,3 +1,16 @@
+- version: 0.12.6
+  date: '2020-05-19'
+  changes:
+    features: []
+    enhancements: []
+    fixes:
+      - >-
+        Fixed issue where the Model Info view was not being rendered properly
+        when first porting a model.
+      - >-
+        Fixed issue where datasets with nested folders were causing uploading
+        errors.
+    notes: []
 - version: 0.12.5
   date: '2020-05-18'
   changes:

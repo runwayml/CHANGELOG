@@ -1,3 +1,11 @@
+- version: 0.13.3
+  date: '2020-06-24'
+  changes:
+    features: []
+    enhancements: []
+    fixes:
+      - Added performance optimizations.
+    notes: []
 - version: 0.13.2
   date: '2020-06-24'
   changes:

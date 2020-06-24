@@ -1,3 +1,12 @@
+- version: 0.13.2
+  date: '2020-06-24'
+  changes:
+    features:
+      - Added Pay with PayPal feature.
+    enhancements:
+      - Improved Image Annotator UI.
+    fixes: []
+    notes: []
 - version: 0.13.1
   date: '2020-06-17'
   changes:

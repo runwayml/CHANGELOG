@@ -1,3 +1,12 @@
+- version: 0.14.1
+  date: '2020-08-14'
+  changes:
+    features:
+      - 'Introducing Assets page: manage all your images, videos and text files.'
+    enhancements:
+      - UI improvements on mobile browsers.
+    fixes: []
+    notes: []
 - version: 0.14.0
   date: '2020-08-05'
   changes:

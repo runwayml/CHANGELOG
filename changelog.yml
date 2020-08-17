@@ -1,3 +1,14 @@
+- version: 0.14.2
+  date: '2020-08-17'
+  changes:
+    features:
+      - >-
+        Introducing Latent Walk Creator, an improved interface for creating
+        latent walk exports with the ability to customize the keyframes and
+        transitions of your videos.
+    enhancements: []
+    fixes: []
+    notes: []
 - version: 0.14.1
   date: '2020-08-14'
   changes:

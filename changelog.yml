@@ -1,3 +1,15 @@
+- version: 0.14.3
+  date: '2020-08-21'
+  changes:
+    features: []
+    enhancements: []
+    fixes:
+      - >-
+        Fixed issue where overflowing export and cancel buttons in the export
+        modal aren't visible.
+      - Fixed issue in the export modal which caused some exports to fail.
+      - Fixed Recent Assets refreshing in Assets page.
+    notes: []
 - version: 0.14.2
   date: '2020-08-17'
   changes:

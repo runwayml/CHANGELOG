@@ -1,3 +1,12 @@
+- version: 0.14.4
+  date: '2020-09-14'
+  changes:
+    features: []
+    enhancements:
+      - Improved uploading assets logic.
+      - Improved loading time for the Models Directory.
+    fixes: []
+    notes: []
 - version: 0.14.3
   date: '2020-08-21'
   changes:

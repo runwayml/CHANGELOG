@@ -1,3 +1,11 @@
+- version: 0.15.0
+  date: '2020-11-11'
+  changes:
+    features:
+      - 'Introducing Green Screen: cutting objects out of videos.'
+    enhancements: []
+    fixes: []
+    notes: []
 - version: 0.14.4
   date: '2020-09-14'
   changes:

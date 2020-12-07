@@ -1,3 +1,13 @@
+- version: 0.16.0
+  date: '2020-12-07'
+  changes:
+    features:
+      - Shareable Assets and Models.
+    enhancements:
+      - UI improvements in sidebar and model directory.
+    fixes:
+      - Green Screen hotkey bugfixes.
+    notes: []
 - version: 0.15.2
   date: '2020-11-23'
   changes:

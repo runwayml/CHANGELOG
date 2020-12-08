@@ -1,3 +1,11 @@
+- version: 0.16.1
+  date: '2020-12-08'
+  changes:
+    features: []
+    enhancements: []
+    fixes:
+      - Copy amendments on "Make Public" and "Make Private" button tooltips.
+    notes: []
 - version: 0.16.0
   date: '2020-12-07'
   changes:

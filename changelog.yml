@@ -1,3 +1,11 @@
+- version: 0.16.2
+  date: '2020-12-08'
+  changes:
+    features: []
+    enhancements: []
+    fixes:
+      - Fix drag + drop to upload asset functionality in Green Screen.
+    notes: []
 - version: 0.16.1
   date: '2020-12-08'
   changes:

@@ -1,3 +1,12 @@
+- version: 0.16.3
+  date: '2020-12-10'
+  changes:
+    features: []
+    enhancements: []
+    fixes:
+      - Fix for hidden "Run model" button in Model Workspace. .
+      - Copy edits in Green Screen.
+    notes: []
 - version: 0.16.2
   date: '2020-12-08'
   changes:

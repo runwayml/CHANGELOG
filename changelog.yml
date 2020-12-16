@@ -1,3 +1,12 @@
+- version: 0.17.0
+  date: '2020-12-16'
+  changes:
+    features:
+      - Added Sign in with Google feature.
+    enhancements: []
+    fixes:
+      - Fixed slow UI performance issues in macOS Big Sur.
+    notes: []
 - version: 0.16.3
   date: '2020-12-10'
   changes:

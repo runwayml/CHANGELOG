@@ -1,3 +1,15 @@
+- version: 0.17.1
+  date: '2020-12-23'
+  changes:
+    features:
+      - Undo-redo support for Green Screen.
+    enhancements:
+      - Added zoom controls in Green Screen.
+      - Support for GIF uploads in model gallery.
+    fixes:
+      - Account for videos with non-square pixels in Green Screen.
+      - Minor UI style fixes.
+    notes: []
 - version: 0.17.0
   date: '2020-12-16'
   changes:

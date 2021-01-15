@@ -1,3 +1,12 @@
+- version: 0.17.2
+  date: '2021-01-15'
+  changes:
+    features:
+      - 'Introducing the new Models page: explore models by collections.'
+    enhancements:
+      - UI improvements on mobile browsers.
+    fixes: []
+    notes: []
 - version: 0.17.1
   date: '2020-12-23'
   changes:

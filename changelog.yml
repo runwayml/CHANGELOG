@@ -1,3 +1,14 @@
+- version: 0.17.3
+  date: '2021-01-16'
+  changes:
+    features: []
+    enhancements:
+      - Menu style updates.
+    fixes:
+      - >-
+        Fix issue when running Pose Estimation model (previously PoseNet) in
+        Model Workspace.
+    notes: []
 - version: 0.17.2
   date: '2021-01-15'
   changes:

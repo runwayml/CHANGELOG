@@ -1,3 +1,13 @@
+- version: 0.17.4
+  date: '2021-01-21'
+  changes:
+    features: []
+    enhancements:
+      - Improved mask quality with on Green Screen.
+    fixes:
+      - Fixed issue where Create New Model option was hidden.
+      - Fixed UI styles in Buy Credits popup window.
+    notes: []
 - version: 0.17.3
   date: '2021-01-16'
   changes:

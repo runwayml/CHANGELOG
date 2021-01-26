@@ -1,3 +1,11 @@
+- version: 0.17.5
+  date: '2021-01-26'
+  changes:
+    features: []
+    enhancements:
+      - UI improvements on Payment and Models page.
+    fixes: []
+    notes: []
 - version: 0.17.4
   date: '2021-01-21'
   changes:

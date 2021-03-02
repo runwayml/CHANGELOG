@@ -1,3 +1,16 @@
+- version: 0.17.6
+  date: '2021-03-02'
+  changes:
+    features: []
+    enhancements:
+      - Improve video editor preview performance with WebGL.
+      - Improve video frame rate in Green Screen.
+      - Allow uploading videos up to 15min for subscribed users.
+      - Improve uploading videos UI.
+      - Update Payment popups UI and descriptions.
+    fixes:
+      - Fix Asset page actions.
+    notes: []
 - version: 0.17.5
   date: '2021-01-26'
   changes:

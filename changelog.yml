@@ -1,3 +1,15 @@
+- version: 0.17.7
+  date: '2021-04-20'
+  changes:
+    features: []
+    enhancements:
+      - Support feathering the edges of the mask in Green Screen video tool.
+    fixes:
+      - >-
+        Hide unsupported “Local CPU” option in the run options of Model
+        Workspaces for the web app.
+      - Avoid distorting profile picture on the side bar.
+    notes: []
 - version: 0.17.6
   date: '2021-03-02'
   changes:

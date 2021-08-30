@@ -1,3 +1,19 @@
+- version: 0.19.1
+  date: '2021-08-30'
+  changes:
+    features:
+      - New image and layer effects.
+      - >-
+        Pro Exports - export depth, mask, optical flowfor video layers in
+        Sequel. .
+    enhancements:
+      - Undo-redo support in Sequel.
+      - Support dragging assets into position into the Sequel timeline.
+      - More preset format options in Sequel.
+    fixes:
+      - Misc. Sequel timeline interaction fixes.
+      - Performance improvements.
+    notes: []
 - version: 0.19.0
   date: '2021-07-20'
   changes:

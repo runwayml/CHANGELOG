@@ -1,3 +1,17 @@
+- version: 0.19.2
+  date: '2021-09-22'
+  changes:
+    features:
+      - Audio tracks.
+      - New shortcuts options.
+      - New color picker in scene background color option.
+    enhancements:
+      - Improve video playback speed in Green Screen.
+      - Manage plans UI improvement.
+    fixes:
+      - Fix edit mask button functionality.
+      - Fix hotkeys in Sequel.
+    notes: []
 - version: 0.19.1
   date: '2021-08-30'
   changes:
